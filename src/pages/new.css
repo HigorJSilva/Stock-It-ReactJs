@@ -1,0 +1,26 @@
+
+.container {
+    display: 'flex';
+    flex-wrap: 'wrap';
+    margin-top: 50px;
+    border: solid 1px #666666;
+}
+.header{
+    border-bottom: solid 1px #666666;
+    width: 100%;
+}
+
+.titulo{
+    justify-content: center;
+    width: 100%;
+}
+
+.textField{
+    width: 200;
+}
+.dense{
+    margin-top: 19;
+}
+.menu{
+    width: 85%;
+}
