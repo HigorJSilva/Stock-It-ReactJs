@@ -5,7 +5,7 @@ Aplicação Web simples em ReactJS de estoque em tempo real usando [API em NodeJ
 ## Demo
 Feed atualizado em tempo real em todos os dipositivos
 
-![Feed](demo/FeedDemo.gif)
+![Feed](src/demo/FeedDemo.gif)
 
 ## Recursos Utilizados
 
